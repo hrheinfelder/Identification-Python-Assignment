@@ -1,0 +1,16 @@
+name = "Hayden Rheinfelder"
+iD = "4014590"
+summerPlans = []
+summerPlans.append("do my internship")
+summerPlans.append("get stressed out")
+summerPlans.append("not have enought time to get ready for next year")
+print ("My name is " + name + ".")
+print ("My Student ID is " + iD + ".")
+print (name[0])
+print (name[1])
+print (name[2])
+print (name[3])
+print (name[4])
+print (name[5])
+print ("My name all capitalized is " + name.upper() + ".")
+print ("This summer, I plan to " + (', '.join(summerPlans)) + ".")
